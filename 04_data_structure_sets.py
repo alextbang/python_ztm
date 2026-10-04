@@ -16,5 +16,13 @@
 our_set = {1,2,3,4,5}
 their_set = {4,5,6,7,8,9,10}
 
-print(our_set.difference(their_set))
-
+# print(our_set.difference(their_set))
+# print(our_set.discard(5))
+# print(our_set)
+# print(our_set.difference_update(their_set))
+# print(our_set)
+# print(our_set.intersection(their_set))
+# print(our_set.isdisjoint(their_set)) # have nothing in common?
+# .issuesubset() # is the our entire our_set a subset of their_set
+# .issuesuperset()
+# print(our_set.union(their_set)) # combine unique elements
