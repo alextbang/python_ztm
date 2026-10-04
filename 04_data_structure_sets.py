@@ -23,6 +23,6 @@ their_set = {4,5,6,7,8,9,10}
 # print(our_set)
 # print(our_set.intersection(their_set))
 # print(our_set.isdisjoint(their_set)) # have nothing in common?
-# .issuesubset() # is the our entire our_set a subset of their_set
+# .issuesubset() # is the entire our_set a subset of their_set
 # .issuesuperset()
 # print(our_set.union(their_set)) # combine unique elements
