@@ -7,6 +7,7 @@ dictionary = {
 
 print("age-->",dictionary['age'])
 print("dictionary-->",dictionary)
+print('dictionary items-->', dictionary.items())
 
 # avoid error accessing dictionary key
 print(dictionary.get('species:'))
